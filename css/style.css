@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Sevillana&display=swap" );
+
+body {
+    background-color: rgb(193, 228, 228); color: blue;
+}
+.pealkiri {
+    font-family: 'Sevillana', cursive; color: rgb(222, 5, 242);
+}
+.img {
+    width: 300px; border-radius: 25%;
+}
